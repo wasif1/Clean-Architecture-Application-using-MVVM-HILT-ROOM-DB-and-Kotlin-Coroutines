@@ -42,7 +42,7 @@ This is a clean architecture app example built with
 ## Screenshots 
 | Main Screen  | Details Screen |
 | ------------- | ------------- |
-| ![main](https://github.com/wasif1/DubizzleTest/blob/master/app/screenshots/main.jpg)  | ![details](https://github.com/wasif1/DubizzleTest/blob/master/app/screenshots/details.jpg)  |
+| ![main](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/1.jpg)  | ![details](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/2.jpg)  |
 
 
 
