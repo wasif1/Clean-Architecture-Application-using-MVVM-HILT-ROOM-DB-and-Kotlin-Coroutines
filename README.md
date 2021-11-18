@@ -16,6 +16,7 @@ This is a clean architecture app example built with
 - Material UI
 - ROOM Database
 - Google Maps
+- Deep Linking
 
 ## Languages 
 - Kotlin
