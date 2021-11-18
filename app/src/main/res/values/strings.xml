@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="product_image_trans">image_trans</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="product_code">1323</string>
+    <string name="name">Product</string>
+    <string name="desc">Description</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="rtl">RTL</string>
+    <string name="notification">Notification</string>
+    <string name="location">Location</string>
+    <string name="address">Addresses</string>
+    <string name="add_location">Add Location</string>
+    <string name="add">Add</string>
+    <string name="no_record_found">No record found!</string>
+    <string name="under_imp">Under Implementation!</string>
+    <string name="prod_added">Product Added!</string>
+    <string name="cart">Cart</string>
+</resources>

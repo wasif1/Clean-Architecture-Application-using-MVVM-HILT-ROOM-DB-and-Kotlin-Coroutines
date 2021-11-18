@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorPrimary">#65B6F6</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorProgress">#00BCD4</color>
+
+    <color name="theme">@color/colorAccent</color>
+    <color name="pink">@color/colorPrimaryDark</color>
+
+    <color name="front_color">#FFFFFF</color>
+    <color name="back_color">#F5F7FA</color>
+
+    <color name="colorPrimaryTrans">#80FFFFFF</color>
+    <color name="card">#FFFFFF</color>
+    <color name="orange">#F67441</color>
+    <color name="navbar">#ffffff</color>
+    <color name="card_shadow">#8291AB</color>
+
+    <color name="popup_base">#FFFFFF</color>
+    <color name="popup_btn">#F6F7FB</color>
+
+    <color name="menu_header">#FFFFFF</color>
+    <color name="menu_content">#F5F6FA</color>
+
+    <color name="icon_grey">#84838b</color>
+
+    <color name="main_category_text_color">#3D485F</color>
+
+
+    <color name="signal">#C4C8CF</color>
+    <color name="card_text_1_color">#FFFFFF</color>
+    <color name="card_text_2_color">#3c456F</color>
+    <color name="card_text_3_color">#697389</color>
+    <color name="card_signal_icon">#BDC1CA</color>
+
+    <color name="menu_enable_text">#3c4561</color>
+    <color name="menu_disable_text">#CACCD4</color>
+
+    <color name="details_bg">#F5F7FA</color>
+    <color name="details_text_1_color">#414B63</color>
+    <color name="details_text_2_color">#FFFFFF</color>
+    <color name="details_text_3_color">#3D485F</color>
+    <color name="details_text_4_color">#3D485F</color>
+    <color name="details_text_5_color">#0FEDDE</color>
+    <color name="details_text_6_color">#697389</color>
+    <color name="transparentBlack">#80000000</color>
+    <color name="card_end">#37CAC7C7</color>
+
+
+    <color name="splash_text">#000000</color>
+
+    <color name="menu_divider">#787779</color>
+    <color name="menu_text">#000000</color>
+
+    <color name="lightTheme">#F6F7FB</color>
+    <color name="lightText">#3c456F</color>
+    <color name="darkTheme">#000000</color>
+    <color name="darkText">#FFFFFF</color>
+
+    <color name="whiteTrans">#80FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white100">#00FFFFFF</color>
+    <color name="bg_dot">#00000057</color>
+    <color name="green">#156012</color>
+    <color name="read_more">#3CDB9B</color>
+    <color name="active_dot">#3CDB9B</color>
+    <color name="inactive_dot">#4D3CDB9B</color>
+    <color name="light_green">#833CDB9B</color>
+    <color name="green2">#68C579</color>
+    <color name="play_btn">#0FEDDE</color>
+    <color name="logo">#3D485F</color>
+    <color name="splash_bg">#213139</color>
+    <color name="black">#000000</color>
+    <color name="black100">#00000000</color>
+    <color name="black10">#19000000</color>
+    <color name="blackTrans">#B5000000</color>
+    <color name="yellow">#FFC442</color>
+    <color name="red">#D94D45</color>
+    <color name="red_bright">#FC2C08</color>
+    <color name="darkgrey">#2B2A2F</color>
+    <color name="grey">#787779</color>
+    <color name="greyLight">#14787779</color>
+    <color name="search_text">#8E95A1</color>
+    <color name="tablayout_text">#697389</color>
+
+    <color name="progress_primary">@color/play_btn</color>
+    <color name="progress_secondary">@color/gray_scale</color>
+    <color name="progress_max_active">@color/play_btn</color>
+    <color name="gray_scale">#8affffff</color>
+
+
+    <color name="tab_unselected">#84838B</color>
+    <color name="tab_selected">#FFFFFF</color>
+
+    <color name="whitenew">#F5F7FA</color>
+    <color name="base">#F5F7FA</color>
+    <color name="textHeader">#3D485F</color>
+    <color name="textSmall">#3D485F</color>
+    <color name="appbarBg">#EFEEEE</color>
+    <color name="btnGreyBg">#E1E0E0</color>
+    <color name="btnGrey2">#E1E0E0</color>
+    <color name="btnGreyBgDark">#8E95A1</color>
+    <color name="textUnselected">#BA3A3A3A</color>
+
+    <color name="turquoiseGreen">#3AD9D2</color>
+    <color name="theme_tab_bg">#E3E5EA</color>
+    <color name="textSmallGrey">#697389</color>
+    <color name="btnUnSelectedBg">#C4C8CF</color>
+    <color name="btnUnSelectedText">#ffffff</color>
+    <color name="textSubTitleGrey">#8C8B91</color>
+
+    <!--menu-->
+    <color name="brands">#26a69a</color>
+    <color name="makeup">#9575cd</color>
+    <color name="skin_care">#e57373</color>
+    <color name="bath_body">#4dd0e1</color>
+    <color name="hair">#aed581</color>
+
+    <color name="help">#93B2FE</color>
+    <color name="feedback">#80AC7FFB</color>
+    <color name="invite_frnnd">#F696B8</color>
+    <color name="rate_app">#CDCFF5</color>
+    <color name="about_us">#6CC8A6</color>
+    <color name="blue">#2BD1FA</color>
+    <color name="hot">#80FA662B</color>
+
+    <color name="progress">#5C80CBC4</color>
+
+</resources>
