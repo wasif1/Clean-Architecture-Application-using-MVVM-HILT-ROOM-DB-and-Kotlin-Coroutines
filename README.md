@@ -40,9 +40,18 @@ This is a clean architecture app example built with
 
 
 ## Screenshots 
-| Main Screen  | Details Screen |
+| Home Screen  | Product Details Screen |
 | ------------- | ------------- |
 | ![main](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/1.jpg)  | ![details](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/2.jpg)  |
+| Cart Details  | Profile Screen |
+| ------------- | ------------- |
+| ![main](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/3.jpg)  | ![details](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/4.jpg)  |
+| Address Details  | Add Address Screen |
+| ------------- | ------------- |
+| ![main](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/5.jpg)  | ![details](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/6.jpg)  |
+| Add Address Screen  | Deep Link Screen |
+| ------------- | ------------- |
+| ![main](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/7.jpg)  | ![details](https://github.com/wasif1/Ecommerce/blob/master/app/screenshots/8.jpg)  |
 
 
 
